@@ -1,9 +1,9 @@
-
+import Faq from "./components/Faq";
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline text-indigo-500 text-center py-8">
-    Hello world!
-  </h1>
+    <main className="min-h-screen bg-[#E1E7EC] py-20">
+      <Faq />
+    </main>
   );
 }
 

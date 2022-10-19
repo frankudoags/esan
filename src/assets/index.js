@@ -1,0 +1,1 @@
+export { default as ImgRef } from "./get.png";
