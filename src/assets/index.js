@@ -1,1 +1,1 @@
-export { default as ImgRef } from "./get.png";
+export { default as TWLogoBlack } from "./tw-logo-black.svg"
